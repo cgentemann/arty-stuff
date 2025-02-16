@@ -1,0 +1,15 @@
+name: psp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - jupyterlab
+  - numpy
+  - pandas
+  - astropy
+  - matplotlib
+  - scipy
+prefix: C:\Users\cgent\miniconda3\envs\psp
+
+
