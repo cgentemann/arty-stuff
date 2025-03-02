@@ -1,0 +1,12 @@
+  FORMAT OF THE SUBSETTED FILE
+    
+    ITEMS                      FORMAT   
+     
+ 1 Year                          I4        
+ 2 DOY                           I4        
+ 3 Hour                          I3        
+ 4 Radial Distance, AU           F7.2      
+ 5 IMF B (vector), nT            F9.2      
+ 6 Proton Speed, km/s            F8.1      
+ 7 Proton Fit Density, N/cm^3    F8.1      
+ 8 Proton Fit Temperature, K     F10.0     
