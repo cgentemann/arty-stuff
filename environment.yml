@@ -1,7 +1,6 @@
 name: psp
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - jupyter
   - jupyterlab
