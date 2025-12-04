@@ -9,7 +9,6 @@ dependencies:
   - astropy
   - matplotlib
   - scipy
-  - lightkurve
 prefix: C:\Users\cgent\miniconda3\envs\psp
 
 
